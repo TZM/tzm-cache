@@ -1,9 +1,6 @@
-[submodule "js/easyXDM"]
-path = js/easyXDM
-url = git://github.com/oyvindkinsey/easyXDM.git
-[submodule "js/JSON-js"]
-	path = js/JSON-js
-	url = git://github.com/douglascrockford/JSON-js.git
-[submodule "JSON-js"]
-	path = JSON-js
+[submodule "js/lib/easyXDM"]
+	path = js/lib/easyXDM
+	url = git://github.com/oyvindkinsey/easyXDM.git
+[submodule "js/lib/JSON-js"]
+	path = js/lib/JSON-js
 	url = git://github.com/douglascrockford/JSON-js.git
