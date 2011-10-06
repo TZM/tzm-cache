@@ -4,3 +4,9 @@
 [submodule "js/lib/JSON-js"]
 	path = js/lib/JSON-js
 	url = git://github.com/douglascrockford/JSON-js.git
+[submodule "js/lib/jquery"]
+	path = js/lib/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "js/lib/jquery-ui"]
+	path = js/lib/jquery-ui
+	url = git://github.com/jquery/jquery-ui.git
